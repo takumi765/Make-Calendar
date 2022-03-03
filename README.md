@@ -1,5 +1,5 @@
 # Make-Calendar
-A calendar is created by writing the year and month in a text file in the txt folder.
+A calendar is created by writing the year and month in a txt file.
 
 1.Please write year and month in the year.txt in the txt folder.
 
